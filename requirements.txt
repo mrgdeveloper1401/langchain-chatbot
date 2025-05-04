@@ -1,0 +1,8 @@
+python-decouple
+openai
+django
+drf-spectacular
+gunicorn
+pillow
+django-json-widget
+pypdf
